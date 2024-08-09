@@ -22,6 +22,6 @@ If you have any advice, useful resources, or projects that I can join and learn 
 
 - **Email:** tranminhtan4953@gmail.com
 - **Telegram:** t.me/tanbaycu
-- **GitHub:** [lysandraBars](https://github.com/lysandraBars)
+- **GitHub:** [lysandraBars](https://github.com/tanbaycu)
 
 Thank you for reading about me. I look forward to receiving help and guidance from the community to improve my skills and become a better programmer.
