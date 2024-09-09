@@ -1,7 +1,7 @@
 ## 👋 Self Introduction
 
 Hello! I am Tan (bro can call me tanbaycu) , a beginner programmer from Vietnam. I have just started my journey in the world of technology and programming, and I am very excited to learn new things every day.
-
+![Profile views](https://komarev.com/ghpvc/?username=tanbaycu)
 ### 🛠️ Current Skills
 
 - **Programming Languages:** Python (basic), JavaScript (basic), Node.js (basic).
