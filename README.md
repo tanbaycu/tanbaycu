@@ -35,3 +35,7 @@ If you have any advice, useful resources, or projects that I can join and learn 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanbaycu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanbaycu&layout=compact)
+
+
