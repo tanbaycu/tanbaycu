@@ -8,10 +8,7 @@ Hello! I am Tan (bro can call me tanbaycu) , a beginner programmer from Vietnam.
 ![GitHub followers](https://img.shields.io/github/followers/tanbaycu?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tanbaycu/tanbaycu.github.io?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/tanbaycu/tanbaycu.github.io?style=social)
-![GitHub issues](https://img.shields.io/github/issues/tanbaycu/tanbaycu.github.io?style=social)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tanbaycu/tanbaycu.github.io?style=social)
-![GitHub gists](https://img.shields.io/github/gists/tanbaycu?style=social)
-![GitHub commits](https://img.shields.io/github/commit-activity/m/tanbaycu?style=social)
+
 
 
 
