@@ -8,15 +8,6 @@
   <a href="https://facebook.com/tanbaycu.404s">
     <img src="https://img.shields.io/badge/Facebook-tanbaycu.404s-blue?style=for-the-badge&logo=facebook" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
-  </a>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
