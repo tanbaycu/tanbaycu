@@ -87,7 +87,8 @@
 <h2 align="center">🎵 Currently Vibing To</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&redirect=true)
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=282424&interchange=true&bar_color=865095&bar_color_cover=true)]]
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=282424&interchange=false&bar_color=865095&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
