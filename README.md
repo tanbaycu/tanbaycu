@@ -50,14 +50,7 @@
   </p>
 </details>
 
-<h2 align="center">🏆 Achievements</h2>
 
-<p align="center">
-  🥇 Winner of [Hackathon/Competition Name] - [Year]<br>
-  📜 [Certification Name] - [Issuing Organization]<br>
-  🌟 Top Contributor - [Open Source Project Name]<br>
-  🏅 Dean's List - [Your University] - [Year]
-</p>
 
 <h2 align="center">📊 GitHub Insights</h2>
 
