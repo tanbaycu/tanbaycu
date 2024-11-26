@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  🎓 Computer Science student at [THPT DBK]<br>
+  🎓 Computer Science student at [tanbaycu projects]<br>
   💡 Passionate about web development, AI, and open source<br>
-  🌱 Currently learning React, Node.js, and GraphQL<br>
+  🌱 Currently learning React, Node.js, and SQLite<br>
   🔭 Working on [Inc tanbaycu]<br>
   📚 Always eager to learn and grow<br>
   🎯 2024 Goals: Contribute to more open source projects
@@ -30,7 +30,7 @@
   <br>
   <ul>
     <li>☕ I can't start coding without a cup of Vietnamese coffee</li>
-    <li>🎸 I play guitar in my free time</li>
+    <li>😴 I can sleep </li>
     <li>🌏 I dream of traveling the world while coding</li>
     <li>🍜 I can eat phở for breakfast, lunch, and dinner</li>
   </ul>
