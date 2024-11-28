@@ -12,6 +12,12 @@
     <img src="https://img.shields.io/badge/Facebook-tanbaycu.404s-blue?style=for-the-badge&logo=facebook" />
   </a>
 </p>
+<p align="right">
+
+ [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
+
+</p>
+
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -41,6 +47,12 @@
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mongodb,postgres,docker,git,vscode&theme=dark" alt="Tech Skills" />
 </p>
@@ -56,6 +68,8 @@
 
 
 <h2 align="center">📊 GitHub Insights</h2>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanbaycu&theme=radical" alt="GitHub Streak" width="75%" />
@@ -98,6 +112,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanbaycu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232BF9A1&title_bg=%233B0D0D&icon=katana.svg&icon_color=%23199D9A&title=tanbaycu&edge_flat=true"
+    alt="stat" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
