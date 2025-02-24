@@ -108,6 +108,9 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=282424&interchange=false&bar_color=865095&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanbaycu)
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanbaycu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
