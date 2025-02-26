@@ -9,7 +9,15 @@
 <audio autoplay loop>
   <source src="https://www.myinstants.com/media/sounds/windows-xp-startup.mp3" type="audio/mp3">
 </audio>
-
+<h2 align="center" >ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tanbaycu/tanbaycu?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/tanbaycu/tanbaycu?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -61,6 +69,26 @@
 ![Firebase](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
 ![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&color=0080FF)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+<h2> 🐳Things that help me getting my code done</h2>
+<code><img title="VS Code" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="GitHub" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="Stack Overflow" alt="Stack Overflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" /></code>
+<code><img title="Google" alt="Google" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" /></code>
+<code><img title="Udemy" alt="Udemy" width="30px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" /></code>
+<code><img title="MS Windows" alt="Microsoft Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="Spotify" alt="Spotify" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" /></code>
+<code><img title="Paint" alt="Microsoft Paint" width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Paint.svg" /></code>
+<code><img title="Notepad" alt="Notepad" width="30px" src="https://en.wikipedia.org/wiki/Special:FilePath/Notepad_Win11.svg" /></code>
+<code><img title="WebStorm" alt="WebStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" /></code>
+<code><img title="Thonny" alt="Thonny" width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Thonny_logo.png" /></code>
+<code><img title="XAMPP" alt="XAMPP" width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/XAMPP_Logo.png" /></code>
+</br></br>
+<details>
+<summary>Click here for a cute surprise! :3</summary>
+<img src="https://cat-gifs.cyclic.app">
+</details>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mongodb,postgres,docker,git,vscode&theme=dark" alt="Tech Skills" />
@@ -126,13 +154,16 @@
 
 
 <h2 align="center">🎵 Currently Vibing To</h2>
-
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314vnz5ewlzsxlqy7r5a7yv4skdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
   </a>
 </p>
-
+</br>
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/314vnz5ewlzsxlqy7r5a7yv4skdm"><img src="https://spotify-recently-played-readme.vercel.app/api?user=314vnz5ewlzsxlqy7r5a7yv4skdm&unique=true&count=50" alt="Spotify recently played"></a>
+</details>
 
 
 
