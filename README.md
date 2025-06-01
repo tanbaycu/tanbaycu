@@ -6,4 +6,4 @@
 |----------|------|-----------------|
 | 🏠 Portfolio | [tanbaycu.is-a.dev](https://tanbaycu.is-a.dev) | My digital home & showcase |
 | 🎨 Projects | [tandevhtml.is-a.dev](https://tandevhtml.is-a.dev) | Live demos & experiments |
-| 🤖 AI Chatbot | [full-stack projects](https://chatui-tanbaycu.vercel.app) | My chatbot |
+| 🤖 AI Chatbot | [full-stack projects](https://chatui-tanbaycu.vercel.app) | My chatbot(base Vietnamese) |
