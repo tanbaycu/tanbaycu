@@ -1,9 +1,21 @@
-# 👋 tanbaycu hello developer
+```
+hi, my name Tran Minh Tan (ft.tanbaycu)
+> !7teen y/o developer from Vietnam
 
-> Hi there! I'm a 17-year-old developer 🧑‍💻 from Vietnam with a passion for web development. I'm always striving to create unique digital experiences 🚀 that make an impact.
+┌─ tanbaycu ──────────────────────────────────────┐
+│                                                 │
+│  🏠 Portfolio Hub                               │
+│     → tanbaycu.is-a.dev                         │
+│                                                 │
+│  🛠️ Project Laboratory                          │
+│     → tandevhtml.is-a.dev                       │
+│                                                 │
+│  🤖 AI Chatbot (Vietnamese)                     │
+│     → chatui-tanbaycu.vercel.app                │
+│                                                 │
+└────────────────────────────────────────────────┘ 
 
-| Platform | Link | What You'll Find |
-|----------|------|-----------------|
-| 🏠 Portfolio | [tanbaycu.is-a.dev](https://tanbaycu.is-a.dev) | My digital home & showcase |
-| 🎨 Projects | [tandevhtml.is-a.dev](https://tandevhtml.is-a.dev) | Live demos & experiments |
-| 🤖 AI Chatbot | [full-stack projects](https://chatui-tanbaycu.vercel.app) | My chatbot(base Vietnamese) |
+
+> made with love & passionate 
+> status: available with new projects 🌱
+```
