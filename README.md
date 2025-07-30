@@ -10,7 +10,7 @@ hi, my name Tran Minh Tan (ft.tanbaycu)
 │  🛠️ Project Laboratory                          │
 │     → tandevhtml.is-a.dev                       │
 │                                                 │
-│  🤖 AI Chatbot (Vietnamese)                     │
+│  🤖 AI Chatbot (chubedan)                       │
 │     → tanbaycu.is-a-fullstack.dev               │
 │                                                 │
 └────────────────────────────────────────────────┘ 
