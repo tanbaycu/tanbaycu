@@ -11,7 +11,7 @@ hi, my name Tran Minh Tan (ft.tanbaycu)
 │     → tandevhtml.is-a.dev                       │
 │                                                 │
 │  🤖 AI Chatbot (Vietnamese)                     │
-│     → chatui-tanbaycu.vercel.app                │
+│     → tanbaycu.is-a-fullstack.dev               │
 │                                                 │
 └────────────────────────────────────────────────┘ 
 
