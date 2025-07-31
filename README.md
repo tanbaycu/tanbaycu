@@ -11,9 +11,11 @@ hi, my name Tran Minh Tan (ft.tanbaycu)
 │     → tandevhtml.is-a.dev                       
 │                                                
 │  🤖 AI Chatbot (chubedan)                       
-│     → tanbaycu.is-a-fullstack.dev               
+│     → tanbaycu.is-a-fullstack.dev
+│       
 │  ⏰ Join my waitlist - coming soon                       
-│     → tanbaycu-waitlist.vercel.app           
+│     → tanbaycu-waitlist.vercel.app
+│      
 └────────────────────────────────────────────────
 
 
