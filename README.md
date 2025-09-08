@@ -10,7 +10,7 @@ hi, my name Tran Minh Tan (ft.tanbaycu)
 │  🛠️ Project Laboratory                          
 │     → tandevhtml.is-a.dev                       
 │                                                
-│  🤖 AI Chatbot (chubedan) - 28/8/2025 (off)                   
+│  🤖 AI Chatbot (chubedan) - 8/9                  
 │     → tanbaycu.is-a-fullstack.dev
 │       
 │  ⏰ Join my waitlist - coming soon                       
