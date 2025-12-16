@@ -17,11 +17,11 @@ root@tanbaycu:~$ ./show-profile.sh
 │   │   └── link: "[https://tandevhtml.is-a.dev](https://tandevhtml.is-a.dev)"
 │   │
 │   ├── 🤖 AI_Chatbot (chubedan)
-│   │   ├── progress: "8/9"
+│   │  ├── progress: "8/9"
 │      └── link: "[https://tanbaycu.is-a-fullstack.dev](https://tanbaycu.is-a-fullstack.dev)"
 │  
 └── system_status
     ├── made_with: "love & passionate"
     └── availability: "available with new projects 🌱"
 
-root@tanbaycu:~$ █/contact
+root@tanbaycu:~$ /contact █
