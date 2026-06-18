@@ -26,15 +26,9 @@
 
 <div align="center">
 
-## signal
+## signal deck
 
-```txt
-identity     tanbaycu / tmt
-base         Viet Nam, UTC+7
-mode         build quietly, ship loudly
-focus        portfolio, web craft, ai tools, automation
-status       still building
-```
+<img src="./assets/signal-panel.svg" alt="tanbaycu signal panel" width="100%" />
 
 </div>
 
@@ -46,6 +40,11 @@ status       still building
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,tailwind,flask,react,nodejs,git,github,vscode,vercel,figma&theme=dark&perline=7" alt="tech stack icons" />
 
+<br />
+<br />
+
+<img src="./assets/ai-toolchain.svg" alt="AI toolchain: Antigravity, Codex, Claude" width="90%" />
+
 </div>
 
 ---
@@ -54,29 +53,24 @@ status       still building
 
 ## github command center
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=tanbaycu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=tanbaycu%20core%20stats" alt="GitHub stats" />
-<img height="178" src="https://github-readme-streak-stats.herokuapp.com?user=tanbaycu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=460" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanbaycu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=core%20stats" alt="GitHub core stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tanbaycu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=495" alt="GitHub streak" />
 
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbaycu&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=12&card_width=360" alt="Top languages donut" />
-<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanbaycu&theme=tokyonight&utcOffset=7" alt="Productive time" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbaycu&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=495&custom_title=language%20mix" alt="Top languages compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbaycu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&card_width=495&custom_title=language%20orbit" alt="Top languages donut" />
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanbaycu&theme=tokyonight" alt="Profile details graph" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanbaycu&theme=tokyonight" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanbaycu&theme=tokyonight" alt="Most commit language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanbaycu&theme=tokyonight" alt="Summary stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanbaycu&theme=tokyonight&utcOffset=7" alt="Productive time" />
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanbaycu&theme=react-dark&hide_border=true&area=true&radius=14&custom_title=activity%20pulse" alt="Activity graph" />
 
-</div>
-
----
-
-<div align="center">
-
-## deep stats
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanbaycu&theme=tokyonight" alt="Profile details" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanbaycu&theme=tokyonight" alt="Repos per language" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanbaycu&theme=tokyonight" alt="Most commit language" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanbaycu&theme=tokyonight" alt="Summary stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanbaycu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&hide_title=true" alt="Extended GitHub metrics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanbaycu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&custom_title=extended%20metrics" alt="Extended GitHub metrics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanbaycu&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&custom_title=pull%20request%20signal" alt="Pull request metrics" />
 
 </div>
 
