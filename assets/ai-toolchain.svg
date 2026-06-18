@@ -1,0 +1,44 @@
+<svg width="920" height="150" viewBox="0 0 920 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI toolchain badges</title>
+  <desc id="desc">Custom visual badges for Antigravity, Codex, and Claude.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="920" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5A0"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#00D9FF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; }
+      @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.035); } }
+      .pulse { transform-origin: center; animation: pulse 2.8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect x="3" y="3" width="914" height="144" rx="28" fill="#020617" stroke="url(#g)" stroke-width="3"/>
+  <text x="460" y="34" text-anchor="middle" class="mono" fill="#67E8F9" font-size="15" letter-spacing="5">AI TOOLCHAIN</text>
+
+  <g transform="translate(56 55)">
+    <rect width="250" height="64" rx="20" fill="#111827" stroke="#00F5A0"/>
+    <g class="pulse" filter="url(#glow)"><circle cx="38" cy="32" r="18" fill="#00F5A0"/><path d="M29 37c20-3 24-18 9-27 21 8 24 35-9 37z" fill="#020617" opacity=".9"/></g>
+    <text x="72" y="29" class="sans" fill="#FFFFFF" font-size="19" font-weight="900">Antigravity</text>
+    <text x="72" y="49" class="mono" fill="#A7F3D0" font-size="12">agentic workspace</text>
+  </g>
+
+  <g transform="translate(335 55)">
+    <rect width="250" height="64" rx="20" fill="#111827" stroke="#7C3AED"/>
+    <g class="pulse" filter="url(#glow)"><rect x="20" y="14" width="36" height="36" rx="10" fill="#7C3AED"/><path d="M31 25h15M31 34h11" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+    <text x="72" y="29" class="sans" fill="#FFFFFF" font-size="19" font-weight="900">Codex</text>
+    <text x="72" y="49" class="mono" fill="#DDD6FE" font-size="12">code builder mode</text>
+  </g>
+
+  <g transform="translate(614 55)">
+    <rect width="250" height="64" rx="20" fill="#111827" stroke="#00D9FF"/>
+    <g class="pulse" filter="url(#glow)"><circle cx="38" cy="32" r="18" fill="#F59E0B"/><path d="M27 32c8-18 16-18 24 0-8 18-16 18-24 0z" fill="#020617" opacity=".86"/></g>
+    <text x="72" y="29" class="sans" fill="#FFFFFF" font-size="19" font-weight="900">Claude</text>
+    <text x="72" y="49" class="mono" fill="#BAE6FD" font-size="12">reasoning partner</text>
+  </g>
+</svg>
