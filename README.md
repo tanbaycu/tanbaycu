@@ -1,4 +1,7 @@
-tanbaycu
-creative dev from Viet Nam.
-fast web. sharp AI tools. strange ideas shipped clean.
+# tanbaycu
+
+build fast.
+ship clean.
+break boring.
+
 portfolio: https://tanbaycu.is-a.dev
