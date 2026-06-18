@@ -1,0 +1,28 @@
+<svg width="760" height="112" viewBox="0 0 760 112" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Open tanbaycu portfolio</title>
+  <desc id="desc">A custom neon badge linking to the tanbaycu portfolio.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="760" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5A0"/>
+      <stop offset="0.45" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#00D9FF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      @keyframes slide { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -220; } }
+      .dash { stroke-dasharray: 24 14; animation: slide 6s linear infinite; }
+    </style>
+  </defs>
+  <rect x="4" y="4" width="752" height="104" rx="30" fill="#020617"/>
+  <rect x="8" y="8" width="744" height="96" rx="26" stroke="url(#g)" stroke-width="4" class="dash" filter="url(#glow)"/>
+  <rect x="34" y="28" width="118" height="56" rx="18" fill="url(#g)"/>
+  <text x="93" y="64" text-anchor="middle" class="mono" fill="#020617" font-size="16" font-weight="900">ENTER</text>
+  <text x="178" y="52" class="mono" fill="#E5E7EB" font-size="20" font-weight="900">TANBAYCU.IS-A.DEV</text>
+  <text x="178" y="78" class="mono" fill="#A7F3D0" font-size="15">portfolio gateway / click to open</text>
+  <circle cx="682" cy="56" r="16" fill="#00F5A0" opacity="0.22"/>
+  <circle cx="682" cy="56" r="8" fill="#00F5A0"/>
+</svg>
