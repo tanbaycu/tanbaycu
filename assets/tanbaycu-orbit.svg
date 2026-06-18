@@ -1,0 +1,85 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">tanbaycu orbit profile card</title>
+  <desc id="desc">A custom cyber-style identity card for the tanbaycu GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.38" stop-color="#111827"/>
+      <stop offset="0.68" stop-color="#24115C"/>
+      <stop offset="1" stop-color="#022C22"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="120" y1="65" x2="980" y2="355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5A0"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#00D9FF"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FDE047"/>
+      <stop offset="0.5" stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.00  0 0 0 0 0.95  0 0 0 0 0.72  0 0 0 0.85 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#ffffff" stroke-opacity="0.06"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; }
+      @keyframes dash { to { stroke-dashoffset: -260; } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+      @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+      .orbit { stroke-dasharray: 28 18; animation: dash 10s linear infinite; }
+      .float { animation: float 5s ease-in-out infinite; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="1100" height="420" rx="34" fill="url(#bg)"/>
+  <rect width="1100" height="420" rx="34" fill="url(#grid)"/>
+  <rect x="18" y="18" width="1064" height="384" rx="26" stroke="url(#neon)" stroke-width="2.5" opacity="0.95"/>
+  <path d="M55 340C190 220 310 405 468 280C621 158 744 303 879 155C948 79 1015 72 1050 83" stroke="url(#neon)" stroke-width="2" opacity="0.55"/>
+
+  <g filter="url(#glow)" opacity="0.9">
+    <circle cx="853" cy="200" r="108" stroke="url(#neon)" stroke-width="3" class="orbit"/>
+    <circle cx="853" cy="200" r="72" stroke="#A78BFA" stroke-width="1.5" opacity="0.55" class="orbit"/>
+    <circle cx="853" cy="200" r="38" fill="url(#neon)" opacity="0.95"/>
+    <circle cx="853" cy="200" r="18" fill="#020617" opacity="0.9"/>
+  </g>
+
+  <g class="float">
+    <circle cx="742" cy="102" r="10" fill="#00F5A0"/>
+    <circle cx="956" cy="287" r="8" fill="#38BDF8"/>
+    <circle cx="936" cy="96" r="6" fill="#FDE047"/>
+    <circle cx="760" cy="306" r="5" fill="#FB7185"/>
+  </g>
+
+  <text x="70" y="122" class="mono" fill="#67E8F9" font-size="18" letter-spacing="4">PROFILE.README / MAINFRAME</text>
+  <text x="68" y="190" class="sans" fill="#FFFFFF" font-size="78" font-weight="900" letter-spacing="-3">tanbaycu</text>
+  <text x="74" y="234" class="sans" fill="#D1D5DB" font-size="24" font-weight="700">creative developer from Viet Nam</text>
+  <text x="74" y="273" class="mono" fill="#A7F3D0" font-size="18">portfolio first / stats everywhere / still building</text>
+
+  <g transform="translate(74 315)">
+    <rect width="170" height="42" rx="21" fill="#00F5A0"/>
+    <text x="85" y="27" text-anchor="middle" class="mono" fill="#020617" font-size="14" font-weight="900">PORTFOLIO</text>
+  </g>
+  <g transform="translate(260 315)">
+    <rect width="150" height="42" rx="21" fill="#111827" stroke="#7C3AED"/>
+    <text x="75" y="27" text-anchor="middle" class="mono" fill="#C4B5FD" font-size="14" font-weight="900">AI TOOLS</text>
+  </g>
+  <g transform="translate(426 315)">
+    <rect width="190" height="42" rx="21" fill="#111827" stroke="#38BDF8"/>
+    <text x="95" y="27" text-anchor="middle" class="mono" fill="#BAE6FD" font-size="14" font-weight="900">WEB ENERGY</text>
+  </g>
+
+  <g class="pulse">
+    <text x="720" y="362" class="mono" fill="#E0F2FE" font-size="14">UTC+7 SIGNAL ACTIVE</text>
+    <path d="M895 357h130" stroke="url(#hot)" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
